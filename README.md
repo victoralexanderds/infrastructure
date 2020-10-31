@@ -26,6 +26,7 @@
         - Subnet  : 3 subnet (public, private and private with nat) / zone
         - Route   : Internal, Public and with NAT
         - Security Group  : Base sec-group ssh and web http(s)
+        - Managed Service   : AWS Keyspace and RDS PostgreSQL
     
     - k8s cluster with kops:
         -  kops will create k8s cluster on top of VM
