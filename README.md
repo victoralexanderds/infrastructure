@@ -43,3 +43,5 @@
 3. **Application Deployment**
     - CI/CD : Jenkins if using github or gitlab-ci if using gitlab
     - k8s deployment : helm (package manager for k8s)
+    - Diagram application manifest
+    ![CI](application.png)
