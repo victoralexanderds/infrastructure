@@ -25,6 +25,7 @@ Step:
     -  kops will create k8s cluster on top of VM
     -  Master : 1 per zone
     -  Worker : start with 1 per zone with as enabled
-2. CI/CD Provisiong
+2. CI/CD Pipeline
+    ![CI](pipeline.png)
 3. Application Deployment
 4. 
